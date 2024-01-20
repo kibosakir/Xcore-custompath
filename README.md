@@ -1,3 +1,7 @@
+# PM TELEGRAM: http://t.me/trikjoysmart
+
+# Group Telegram: http://t.me/joysmark
+
 # Install Xray-core Changer
 [ for path /usr/local/bin/xray ]
  ```html
