@@ -2,7 +2,7 @@
 # =========================================
 # Quick Setup | Script Setup Manager
 # Edition : Stable Edition V1.0
-# Auther  : kibosakir
+# Auther  : NevermoreSSH
 # (C) Copyright 2022
 # =========================================
 R='\e[1;31m'
@@ -28,10 +28,10 @@ clear
 echo -e "\e[36m╒════════════════════════════════════════════╕\033[0m"
 echo -e " \E[0;47;30m               XRAY-CORE CHANGER            \E[0m"
 echo -e "\e[36m╘════════════════════════════════════════════╛\033[0m
-\033[1;37mXray-core Changer By kibosakir\033[0m
-\033[1;37mTelegram : https://t.me/trikjoysmart \033[0m"
-echo -e ""
-echo -e ""
+\033[1;37mXray-core Changer By NevermoreSSH\033[0m
+\033[1;37mTelegram : https://t.me/todfix667 \033[0m"
+echo -e 
+echo -e "
 \033[1;36m\033[0m Current version : ${orange}v${current_version} ${NC}
  
  [\033[1;36m• 1\033[0m]  Xray-core v1.5.4
@@ -59,31 +59,31 @@ echo -e ""
 case $xcore in
 1)
 clear
-mv $xrays_path $xrays_path.bakk && wget -q -O $xrays_path "https://github.com/kibosakir/Xcore-custompath/releases/download/Xray-linux-64-v1.5.4/Xray-linux-64-v1.5.4" && chmod 755 $xrays_path && xray version
+mv $xrays_path $xrays_path.bakk && wget -q -O $xrays_path "https://github.com/NevermoreSSH/Xcore-custompath/releases/download/Xray-linux-64-v1.5.4/Xray-linux-64-v1.5.4" && chmod 755 $xrays_path && xray version
 read -p "$( echo -e "Press ${orange}[ ${NC}${green}Enter${NC} ${CYAN}]${NC} Back to menu . . .") "
 xraychanger
 ;;
 2)
 clear
-mv $xrays_path $xrays_path.bakk && wget -q -O /usr/local/bin/xray "https://github.com/kibosakir/Xcore-custompath/releases/download/Xray-linux-64-v1.6.1/Xray-linux-64-v1.6.1" && chmod 755 $xrays_path && xray version
+mv $xrays_path $xrays_path.bakk && wget -q -O /usr/local/bin/xray "https://github.com/NevermoreSSH/Xcore-custompath/releases/download/Xray-linux-64-v1.6.1/Xray-linux-64-v1.6.1" && chmod 755 $xrays_path && xray version
 read -p "$( echo -e "Press ${orange}[ ${NC}${green}Enter${NC} ${CYAN}]${NC} Back to menu . . .") "
 xraychanger
 ;;
 3)
 clear
-mv $xrays_path $xrays_path.bakk && wget -q -O $xrays_path "https://github.com/kibosakir/Xcore-custompath/releases/download/Xray-linux-64-v1.7.2/Xray-linux-64-v1.7.2" && chmod 755 /usr/local/bin/xray && xray version
+mv $xrays_path $xrays_path.bakk && wget -q -O $xrays_path "https://github.com/NevermoreSSH/Xcore-custompath/releases/download/Xray-linux-64-v1.7.2/Xray-linux-64-v1.7.2" && chmod 755 /usr/local/bin/xray && xray version
 read -p "$( echo -e "Press ${orange}[ ${NC}${green}Enter${NC} ${CYAN}]${NC} Back to menu . . .") "
 xraychanger
 ;;
 4)
 clear
-mv $xrays_path $xrays_path.bakk && wget -q -O $xrays_path "https://github.com/kibosakir/Xcore-custompath/releases/download/Xray-linux-64-v1.7.5/Xray-linux-64-v1.7.5" && chmod 755 $xrays_path && xray version
+mv $xrays_path $xrays_path.bakk && wget -q -O $xrays_path "https://github.com/NevermoreSSH/Xcore-custompath/releases/download/Xray-linux-64-v1.7.5/Xray-linux-64-v1.7.5" && chmod 755 $xrays_path && xray version
 read -p "$( echo -e "Press ${orange}[ ${NC}${green}Enter${NC} ${CYAN}]${NC} Back to menu . . .") "
 xraychanger
 ;;
 5)
 clear
-mv $xrays_path $xrays_path.bakk && wget -q -O $xrays_path "https://github.com/kibosakir/Xcore-custompath/releases/download/Xray-linux-64-v1.8.4/Xray-linux-64-v1.8.4" && chmod 755 $xrays_path && xray version
+mv $xrays_path $xrays_path.bakk && wget -q -O $xrays_path "https://github.com/NevermoreSSH/Xcore-custompath/releases/download/Xray-linux-64-v1.8.4/Xray-linux-64-v1.8.4" && chmod 755 $xrays_path && xray version
 read -p "$( echo -e "Press ${orange}[ ${NC}${green}Enter${NC} ${CYAN}]${NC} Back to menu . . .") "
 xraychanger
 ;;
@@ -96,13 +96,13 @@ xraychanger
 ;;
 77)
 clear
-mv $xrays_path $xrays_path.bakk && wget -q -O $xrays_path "https://github.com/kibosakir/Xcore-custompath/releases/download/Xray-linux-64-v1.6.5.1/Xray-linux-64-v1.6.5.1" && chmod 755 $xrays_path && xray version
+mv $xrays_path $xrays_path.bakk && wget -q -O $xrays_path "https://github.com/NevermoreSSH/Xcore-custompath/releases/download/Xray-linux-64-v1.6.5.1/Xray-linux-64-v1.6.5.1" && chmod 755 $xrays_path && xray version
 read -p "$( echo -e "Press ${orange}[ ${NC}${green}Enter${NC} ${CYAN}]${NC} Back to menu . . .") "
 xraychanger
 ;;
 88)
 clear
-mv $xrays_path $xrays_path.bakk && wget -q -O $xrays_path "https://github.com/kibosakir/Xcore-custompath/releases/download/Xray-linux-64-v1.7.2-1/Xray-linux-64-v1.7.2-1" && chmod 755 $xrays_path && xray version
+mv $xrays_path $xrays_path.bakk && wget -q -O $xrays_path "https://github.com/NevermoreSSH/Xcore-custompath/releases/download/Xray-linux-64-v1.7.2-1/Xray-linux-64-v1.7.2-1" && chmod 755 $xrays_path && xray version
 read -p "$( echo -e "Press ${orange}[ ${NC}${green}Enter${NC} ${CYAN}]${NC} Back to menu . . .") "
 xraychanger
 ;;
